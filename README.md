@@ -72,8 +72,8 @@ loves    : Coding challenges
 <tr>
 <td align="center"><b>18</b></td>
 <td align="center"><b>3</b></td>
-<td align="center"><b>1</b></td>
-<td align="center"><b>1</b></td>
+<td align="center"><b>2</b></td>
+<td align="center"><b>2</b></td>
 <td align="center"><b>HTML · JavaScript · Python</b></td>
 </tr>
 </table>
