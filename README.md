@@ -70,7 +70,7 @@ loves    : Coding challenges
 <th align="center">💻 Languages</th>
 </tr>
 <tr>
-<td align="center"><b>18</b></td>
+<td align="center"><b>23</b></td>
 <td align="center"><b>3</b></td>
 <td align="center"><b>2</b></td>
 <td align="center"><b>2</b></td>
